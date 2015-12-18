@@ -1,0 +1,6 @@
+C:\Users\devil\Desktop\CMPE1600\CMPE1700GiyeonKimICA09\CMPE1700GiyeonKimICA09\bin\Debug\CMPE1700GiyeonKimICA09.exe.config
+C:\Users\devil\Desktop\CMPE1600\CMPE1700GiyeonKimICA09\CMPE1700GiyeonKimICA09\obj\Debug\CMPE1700GiyeonKimICA09.csprojResolveAssemblyReference.cache
+C:\Users\devil\Desktop\CMPE1600\CMPE1700GiyeonKimICA09\CMPE1700GiyeonKimICA09\bin\Debug\CMPE1700GiyeonKimICA09.exe
+C:\Users\devil\Desktop\CMPE1600\CMPE1700GiyeonKimICA09\CMPE1700GiyeonKimICA09\bin\Debug\CMPE1700GiyeonKimICA09.pdb
+C:\Users\devil\Desktop\CMPE1600\CMPE1700GiyeonKimICA09\CMPE1700GiyeonKimICA09\obj\Debug\CMPE1700GiyeonKimICA09.exe
+C:\Users\devil\Desktop\CMPE1600\CMPE1700GiyeonKimICA09\CMPE1700GiyeonKimICA09\obj\Debug\CMPE1700GiyeonKimICA09.pdb
